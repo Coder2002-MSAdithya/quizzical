@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.a3e26af9.js",
-    "index.html": "/index.html",
-    "main.a3e26af9.js.map": "/static/js/main.a3e26af9.js.map"
+    "main.js": "/quizzical/static/js/main.a3e26af9.js",
+    "index.html": "/quizzical/index.html",
+    "main.a3e26af9.js.map": "/quizzical/static/js/main.a3e26af9.js.map"
   },
   "entrypoints": [
     "static/js/main.a3e26af9.js"
